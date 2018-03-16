@@ -1,0 +1,13 @@
+Skill Used: HTML, CSS, JavaScript, PHP, Jason,MySQL 
+Details: The project that we are offering is an inventory management system for the internal affairs of a   confectionary.
+ Inventory is an idle material resources of an enterprise awaiting future sales, use, or transformation. 
+ Inventory is the stock of any item or resource used in an organization and can include: raw materials, finished products, component parts, supplies and work-in- progress.
+ This system provides information to efficiently manage the flow of materials, effectively utilize people and equipment, coordinate internal activities and communicate with customers.
+
+
+ If you want to modify this application don't hesitate to contact me.
+
+ Mahmodul Hasan Babul
+ Phone : +8801867381390
+         +8801521212702
+ e-mail: mahmodul1390@gmail.com  
